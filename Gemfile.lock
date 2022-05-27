@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fillable-pdf (0.9.3)
+      rjb (= 1.6.2)
+    rjb (1.6.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  fillable-pdf
+
+RUBY VERSION
+   ruby 2.7.6p219
+
+BUNDLED WITH
+   2.3.11
